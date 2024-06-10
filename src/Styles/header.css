@@ -1,0 +1,14 @@
+.logout-button{
+    padding: 5px 20px;
+    background-color: #007429;
+    color: #fff;
+    border:1px solid #007429;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 20px;
+}
+
+.activeClassName{
+color: #007429;
+font-weight: 800;
+}

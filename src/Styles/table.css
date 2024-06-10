@@ -1,0 +1,49 @@
+.table-header{
+    background-color: #007429 !important;
+    color: #fff !important;
+    width: auto;
+}
+
+.table-body{
+    background-color: #EEF1F3 !important;
+    color: #007429 !important;
+}
+
+.action-button{
+    padding: 5px 20px;
+    background-color: #007429;
+    color: #fff;
+    border:1px solid #007429;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.edit-button{
+    padding: 3px 10px;
+    background-color: #18CA67;
+    color: #fff;
+    border:1px solid #18CA67;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.delete-button{
+        padding: 3px 10px;
+        background-color: #88918C;
+        color: #fff;
+        border:1px solid #88918C;
+        border-radius: 5px;
+        cursor: pointer;
+}
+
+.body-responsive{
+    height:50px !important;
+    overflow-Y:scroll !important;
+}
+
+.table-title{
+    color: #007429;
+    font-size: 20px;
+font-weight: 700;
+}
